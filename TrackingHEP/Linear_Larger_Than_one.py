@@ -1,13 +1,4 @@
 
-
-###############################################
-###############################################
-### Model written by : Marco Cristoforetti ####
-### Tools added by : Sagar Malhotra        ####
-###############################################
-###############################################
-
-
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
